@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steffi 
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I love Big Data and AI
 
 
 <!---
